@@ -85,8 +85,7 @@ ALU_Project/
 ## 📸 Screenshots
 
 ### GTKWave Simulation
-![GTKWave](<img width="1600" height="1008" alt="image" src="https://github.com/user-attachments/assets/96672fb2-6b10-4c32-b139-402d602ed102" />
-)
+![GTKWave](docs/gtkwave.png)
 
 ### Yosys Schematic
 ![Schematic](docs/schematic.png)

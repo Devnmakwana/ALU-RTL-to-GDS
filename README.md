@@ -116,8 +116,8 @@ yosys synth/synth.ys
 
 ## 👨‍💻 Author
 **Dev Makwana**
-- 🎓 3rd Year ECE, Government Engineering College Gandhinagar
-- 🏆 2nd Runner-up NEC 2025, IIT Bombay (1700+ teams)
+- 🎓  ECE student , Government Engineering College Gandhinagar
+
 - 🔗 [LinkedIn](https://linkedin.com/in/dev-makwana-a8815129a)
 
 ---
@@ -126,9 +126,4 @@ yosys synth/synth.ys
 
 ---
 
-## ▶️ Steps on GitHub
-1. Go to your repo
-2. Click *Add file* → *Create new file*
-3. Type filename: README.md
-4. Paste above content
-5. Click *Commit new file* ✅
+

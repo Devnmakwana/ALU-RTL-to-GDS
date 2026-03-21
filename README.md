@@ -85,16 +85,16 @@ ALU_Project/
 ## 📸 Screenshots
 
 ### GTKWave Simulation
-![GTKWave](docs/gtkwave.png)
+![GTKWave](GTK%20Wave.jpeg)
 
 ### Yosys Schematic
-![Schematic](docs/schematic.png)
+![Schematic](schemetic.jpeg)
 
 ### KLayout GDS Layout
-![Layout](docs/layout.png)
+![Layout](layout.jpeg)
 
 ### Synthesis Report
-![Synthesis](docs/synthesis.png)
+![Synthesis](synthesis.jpeg)
 
 ---
 

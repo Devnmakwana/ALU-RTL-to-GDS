@@ -98,6 +98,11 @@ ALU_Project/
 
 ---
 
+### NGSpice CMOS Inverter Simulation
+![NGSpice](ngspice.jpeg)
+
+---
+
 ## 🚀 How to Reproduce
 bash
 # Clone
